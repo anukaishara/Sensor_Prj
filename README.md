@@ -1,5 +1,3 @@
-# Sensor_Prj
-
 # RFID Based Smart Access Control System with Intruder Detection and Automated Door Mechanism
 
 This project implements a smart access control system using RFID technology, integrated with intruder detection and an automated door mechanism. It is designed to enhance security in residential and commercial settings by providing secure, automated, and monitored access.
@@ -63,8 +61,9 @@ Connect the components as follows:
 ```
 Sensor_Prj/
 ├── /Codes                 # Main firmware source code
-├── README.md              # Project documentation
 ├── /Documentaion          # Additional documentation
+├── /Demonstration         # Demonstration Video
+├── README.md              # Description
 ```
 
 ## Customization
