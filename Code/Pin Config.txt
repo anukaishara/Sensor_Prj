@@ -1,0 +1,27 @@
+Arduino Uno:
+
+Digital Pins:
+
+PIR Motion Sensor: Connect output to Digital Pin 2
+
+RFID Module (MFRC522): Standard SPI pins:
+
+SDA to Digital Pin 10
+SCK to Digital Pin 13
+MOSI to Digital Pin 11
+MISO to Digital Pin 12
+RST to Digital Pin 9
+
+Vibration Sensor: Connect output to Digital Pin 3
+
+Servo Motor: Connect control pin to Digital Pin 6
+
+Buzzer: Connect positive to Digital Pin 7
+
+Red LED: Connect to Digital Pin 4
+
+Green LED: Connect to Digital Pin 5
+
+I2C Pins (for LCD):
+SDA to A4
+SCL to A5
